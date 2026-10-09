@@ -1,8 +1,8 @@
 ## Baldwin Monarch
 
+Old monarch grand piano with some quirks.
 
+A sample for basically every key (had to cut some because of background noises).
+Has a nice "recorded-on-phone" vibe to it.
 
-Sampled from a 1913 Baldwin Monarch Grand Piano.
-
-First time making a soundfont so expect some quirks.
-
+First soundfont :D
